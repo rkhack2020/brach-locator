@@ -1,0 +1,104 @@
+{
+    "meta": {
+        "LastUpdated": "2022-05-16T13:43:30.684Z",
+        "TotalResults": 795,
+        "Agreement": "Use of the APIs and any related data will be subject to the terms of the Open Licence and subject to terms and conditions",
+        "License": "https://www.openbanking.org.uk/open-licence",
+        "TermsOfUse": "https://www.openbanking.org.uk/terms"
+    },
+    "data": [
+        {
+            "Brand": [
+                {
+                    "BrandName": "Lloyds Bank",
+                    "Branch": [
+                        {
+                            "Identification": "77952700",
+                            "SequenceNumber": "00",
+                            "Name": "STROOD",
+                            "Type": "Physical",
+                            "CustomerSegment": [
+                                "Personal",
+                                "Business"
+                            ],
+                            "Availability": {
+                                "StandardAvailability": {
+                                    "Day": [
+                                        {
+                                            "Name": "Monday",
+                                            "OpeningHours": [
+                                                {
+                                                    "OpeningTime": "09:00",
+                                                    "ClosingTime": "15:30"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "Name": "Tuesday",
+                                            "OpeningHours": [
+                                                {
+                                                    "OpeningTime": "09:00",
+                                                    "ClosingTime": "15:30"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "Name": "Wednesday",
+                                            "OpeningHours": [
+                                                {
+                                                    "OpeningTime": "09:00",
+                                                    "ClosingTime": "15:30"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "Name": "Thursday",
+                                            "OpeningHours": [
+                                                {
+                                                    "OpeningTime": "09:00",
+                                                    "ClosingTime": "15:30"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "Name": "Friday",
+                                            "OpeningHours": [
+                                                {
+                                                    "OpeningTime": "09:00",
+                                                    "ClosingTime": "15:30"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            },
+                            "ContactInfo": [
+                                {
+                                    "ContactType": "Phone",
+                                    "ContactContent": "+44-3456021997"
+                                }
+                            ],
+                            "PostalAddress": {
+                                "AddressLine": [
+                                    "129-131 HIGH STREET"
+                                ],
+                                "TownName": "ROCHESTER",
+                                "CountrySubDivision": [
+                                    "KENT"
+                                ],
+                                "Country": "GB",
+                                "PostCode": "ME2 4TW",
+                                "GeoLocation": {
+                                    "GeographicCoordinates": {
+                                        "Latitude": "51.39584",
+                                        "Longitude": "0.4939"
+                                    }
+                                }
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
